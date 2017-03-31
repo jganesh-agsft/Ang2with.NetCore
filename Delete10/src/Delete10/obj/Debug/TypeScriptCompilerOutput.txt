@@ -1,0 +1,8 @@
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\Customer.js
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\Customer.js.map
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\app.component.js
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\app.component.js.map
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\app.module.js
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\app.module.js.map
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\main.js
+C:\Ganesh\POC\Delete10\src\Delete10\wwwroot\app\main.js.map
